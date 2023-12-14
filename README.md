@@ -9,10 +9,5 @@
 
 ## Technologies
 
-- MVVM
-- Coordinator Pattern
-- CoreData
-- CollectionView in TableView
-- TableView
-- Delegate
+- MVC
   
